@@ -8,9 +8,11 @@ The task for this challenge was to prepare for future in a scenario that a devel
 
 ---
 
-## Resources
+## links
 
-N/A
+- http://localhost:52330/UCLA-VIRT-FSF-FT-02-2023-U-LOLC/01-HTML-Git-CSS/02-Challenge/refact-html/index.html
+
+
 
 ## Changes
 
