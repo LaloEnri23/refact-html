@@ -7,12 +7,12 @@ The task for this challenge was to prepare for future in a scenario that a devel
 - My goal fot the refactor was to not change the purpose of the code but to make it more cleaner.
 
 ---
+## Screen Recording 
+https://drive.google.com/file/d/1saP72K0z0QyW_fA49WqQBL1-UtmanyD7/view
 
-## links
+## Resources
 
-- http://localhost:52330/UCLA-VIRT-FSF-FT-02-2023-U-LOLC/01-HTML-Git-CSS/02-Challenge/refact-html/index.html
-
-
+N/A
 
 ## Changes
 
